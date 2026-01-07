@@ -1,51 +1,51 @@
-class ToDoList:
-    def __init__(self):
-        self.tasks = []
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
-    def add_task(self, task):
-        self.tasks.append(task)
-        print(f'Task "{task}" added!')
+<h3 align="center">
+  Hello! I'm A.N.A.M
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+ 
 
-    def view_tasks(self):
-        if not self.tasks:
-            print("No tasks in the list.")
-        else:
-            print("Your To-Do List:")
-            for index, task in enumerate(self.tasks, start=1):
-                print(f"{index}. {task}")
+<table>
+    <tr>
+        <td>
+            Hello, my name is <b>Alif Najwan Azhim M</b> from Banjarmasin, South Borneo, Indonesia. A Student, A Technician of <a href=https://discord.gg/ak4mkfnq>FrostAlpha's Stronghold </a> As a Programming Enthusiats. 
+          <br><br>
+        </td>
+    </tr>
+</table>
 
-    def delete_task(self, task_number):
-        if 0 < task_number <= len(self.tasks):
-            removed_task = self.tasks.pop(task_number - 1)
-            print(f'Task "{removed_task}" removed!')
-        else:
-            print("Invalid task number.")
 
-def main():
-    todo_list = ToDoList()
 
-    while True:
-        print("\nTo-Do List Menu:")
-        print("1. Add Task")
-        print("2. View Tasks")
-        print("3. Delete Task")
-        print("4. Exit")
+<p align="center">
+  <a href="https://open.spotify.com/user/">
+    <img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-green?style=for-the-badge&logo=Spotify&logoColor=Green"/></a>
+  <a href="https://github.com/AlifNAjwan">
+    <img alt="Github" title="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=Black"/></a>
+  <a href="https://discord.gg/ak4mkfnq" alt="FrostAlpha's Stronghold">
+    <img src="https://img.shields.io/badge/-Discord-Blue?style=for-the-badge&logoColor=Black&logo=discord"/></a>
+  <a href="https://www.instagram.com/a.n.a.mz?igsh=MWpuMXlrMm40NDhoYg==" alt="@a.n.a.mz">
+    <img src="https://img.shields.io/badge/-Instagram-yellow?style=for-the-badge&logoColor=pink&logo=instagram"/></a>
+</p>
 
-        choice = input("Choose an option (1-4): ")
 
-        if choice == '1':
-            task = input("Enter the task: ")
-            todo_list.add_task(task)
-        elif choice == '2':
-            todo_list.view_tasks()
-        elif choice == '3':
-            task_number = int(input("Enter the task number to delete: "))
-            todo_list.delete_task(task_number)
-        elif choice == '4':
-            print("Exiting the To-Do List application.")
-            break
-        else:
-            print("Invalid choice. Please try again.")
+### 🖥 Skill :
 
-if __name__ == "__main__":
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  
+</div>
+
+###
+
+<br>
  
