@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/9648bae……6e74416…" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Alif%20Najwan&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=38&color=0:000000,100:0a0f0a" style="max-width: 100%;">
+<img src="" style="max-width: 100%;">
 
 <h3 align="center">
   Hello! I'm A.N.A.M
