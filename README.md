@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/b27b195……7572636…" width="602" height="180">
+<img src= (https://camo.githubusercontent.com/b27b195%E2%80%A6%E2%80%A67572636%E2%80%A6)>
 
 <h3 align="center">
   Hello! I'm A.N.A.M
