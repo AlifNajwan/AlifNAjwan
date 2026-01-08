@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/b27b195……7572636…" width="2880" height="1200">slot
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/b27b195……7572636…" width="602" height="180">slot
 
 <h3 align="center">
   Hello! I'm A.N.A.M
