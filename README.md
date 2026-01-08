@@ -1,8 +1,7 @@
-<img src= (https://camo.githubusercontent.com/b27b195%E2%80%A6%E2%80%A67572636%E2%80%A6)>
+<img src= "https://file:///C:/Users/Alif%20Najwan%20Azhim/Downloads/Banner%20X-Frame%20Pesta%20Perayaan%20Artisan%20Modern%20Biru%20Kuning%20(3).png" width="28">>
 
 <h3 align="center">
-  Hello! I'm A.N.A.M
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  A.N.A.M
 </h3>
  
 
