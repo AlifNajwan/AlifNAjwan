@@ -1,5 +1,3 @@
-# A.N.A.M Project
-
 ## Banner Utama
 
 ![Banner X-Frame Pesta Perayaan Artisan Modern Biru Kuning](https://raw.githubusercontent.com/username/repo-name/main/Banner%20X-Frame%20Pesta%20Perayaan%20Artisan%20Modern%20Biru%20Kuning%20(5).png)
