@@ -1,7 +1,16 @@
-![GB_Sources]([https://raw.githubusercontent.com/username/repo-name/main/Banner%20X-Frame%20Pesta%20Perayaan%20Artisan%20Modern%20Biru%20Kuning%20(5).png)
 
 
+<img src https://raw.githubusercontent.com/username/repo-name/main/Banner%20X-Frame%20Pesta%20Perayaan%20Artisan%20Modern%20Biru%20Kuning%20(5).png)>
 
+## Logo
+
+<h3 align="center">
+A.N.A.M
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/repo-name/main/image.png" alt="Logo ANAM" width="200">
+</p>
 <h3 align="center">
 A.N.A.M
 </h3>
