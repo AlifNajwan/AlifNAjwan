@@ -1,5 +1,4 @@
-<img border="0" data-original-height="367" data-original-width="559" height="263" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrOu4gjp3…z01uk8UHRFot0hwBSK1CNfZTj69KKI1DvDekh/w400-h263-rw/man+city+sky+blue.jpg" width="400">
-
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrOu4gjp3…z01uk8UHRFot0hwBSK1CNfZTj69KKI1DvDekh/w400-h263-rw/man+city+sky+blue.jpg;" data-target="animated-image.originalImage">
 
 <h3 align="center">
   A.N.A.M
