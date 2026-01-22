@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Alif Najwan Azhim M
+# Hi there! 👋 I'm A.N.A.M
 
 <!-- OPSI 1: Placeholder dengan warna menarik -->
 ![Banner](https://via.placeholder.com/1920x300/0d1117/00ff00?text=WELCOME+TO+MY+GITHUB+PROFILE)
 
 <!-- OPSI 2: Gradient Banner -->
-![Banner](https://via.placeholder.com/1920x300/3730a3/000000?text=ALIF+NAJWAN+AZHIM+M+%7C+STUDENT+%26+DEVELOPER)
+![Banner](https://via.placeholder.com/1920x300/3730a3/000000?text=A.+N.+A.+M+%7C+STUDENT+%26+DEVELOPER)
 
 <!-- OPSI 3: SVG Banner -->
 ![Banner](https://svg-banners.vercel.app/api?type=typeWriter&text1=Alif%20Najwan%20Azhim%20M&text2=From%20Banjarmasin%20With%20Code&width=1200&height=300)
