@@ -1,49 +1,53 @@
-<img src= https://raw.githubusercontent.com/username/repo-name/main/Banner%20X-Frame%20Pesta%20Perayaan%20Artisan%20Modern%20Biru%20Kuning%20(5).png)>
+# Hi there! 👋 I'm Alif Najwan Azhim M
 
-<h3 align="center">
-A.N.A.M
-</h3>
+<!-- OPSI 1: Placeholder dengan warna menarik -->
+![Banner](https://via.placeholder.com/1920x300/0d1117/00ff00?text=WELCOME+TO+MY+GITHUB+PROFILE)
 
-<table>
-    <tr>
-        <td>
-            Hello, my name is <b>Alif Najwan Azhim M</b> from Banjarmasin, South Borneo, Indonesia. A Student, A Technician of <a href=https://discord.gg/ak4mkfnq>FrostAlpha's Stronghold </a> As a Programming Enthusiats. 
-          <br><br>
-        </td>
-    </tr>
-</table>
+<!-- OPSI 2: Gradient Banner -->
+![Banner](https://via.placeholder.com/1920x300/3730a3/000000?text=ALIF+NAJWAN+AZHIM+M+%7C+STUDENT+%26+DEVELOPER)
 
+<!-- OPSI 3: SVG Banner -->
+![Banner](https://svg-banners.vercel.app/api?type=typeWriter&text1=Alif%20Najwan%20Azhim%20M&text2=From%20Banjarmasin%20With%20Code&width=1200&height=300)
 
+<h3 align="center">A.N.A.M | Student & Developer</h3>
+
+## 👨‍💻 About Me
+Hello, my name is **Alif Najwan Azhim M** from Banjarmasin, South Borneo, Indonesia. A Student, Technician of [FrostAlpha's Stronghold](https://discord.gg/ak4mkfnq) as a Programming Enthusiast.
 
 <p align="center">
-  <a href="https://open.spotify.com/user/">
-    <img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-green?style=for-the-badge&logo=Spotify&logoColor=Green"/></a>
+  <!-- Social Badges -->
   <a href="https://github.com/AlifNAjwan">
-    <img alt="Github" title="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=Black"/></a>
-  <a href="https://discord.gg/ak4mkfnq" alt="FrostAlpha's Stronghold">
-    <img src="https://img.shields.io/badge/-Discord-Blue?style=for-the-badge&logoColor=Black&logo=discord"/></a>
-  <a href="https://www.instagram.com/a.n.a.mz?igsh=MWpuMXlrMm40NDhoYg==" alt="@a.n.a.mz">
-    <img src="https://img.shields.io/badge/-Instagram-yellow?style=for-the-badge&logoColor=pink&logo=instagram"/></a>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/ak4mkfnq">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/a.n.a.mz">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://open.spotify.com/user/your-id">
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
 </p>
 
-
-### 🖥 Skill :
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,python,html,css,git,github,vscode" />
 </div>
 
-###
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlifNAjwan&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlifNAjwan&layout=compact&theme=radical&hide_border=true" />
+</div>
 
-<br>
- 
+## 🚀 Projects
+Coming soon...
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlifNAjwan&color=blue&style=flat-square" />
+  
+  Made with ❤️ from Banjarmasin
+</div>
