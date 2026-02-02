@@ -29,13 +29,9 @@ Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now 
 <div align="center">
 
 # 🎮 COLLECTION GAMES
-
-## 🕹️ OUR GAMES COLLECTION
-
-
-<img src="https://static.wikia.nocookie.net/mobile-legends/images/4/40/Logo.png" width="60"> | MOBA | ✅ Active |
- <img src="https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Game_Logo.png" width="60"> | RPG | ✅ Active |
- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/EA_Sports_FC_logo.svg/800px-EA_Sports_FC_logo.svg.png" width="60"> | Sports | ✅ Active |
+<img src="https://mobile-legends.fandom.com/wiki/Mobile_Legends:_Bang_Bang" width="60"> |
+ <img src="https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Game_Logo.png" width="60"> 
+ <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/EA_Sports_FC_logo.svg/800px-EA_Sports_FC_logo.svg.png" width="60"> 
 
 ## 🛠️ TECH STACK
 
