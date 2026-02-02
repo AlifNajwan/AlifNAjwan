@@ -29,9 +29,9 @@ Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now 
 # 🎮 Collection Games
 
 ## 🕹️ Daftar Game
-- **Mobile Legends** - MOBA Game
-- **Genshin Impact** - Open World RPG
-- **FC Mobile** - Football Game
+- **Mobile Legends**
+- **Genshin Impact** 
+- **FC Mobile** 
 
 ## 🛠️ Tech Stack
 - HTML5
