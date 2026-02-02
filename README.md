@@ -7,7 +7,8 @@
 <h3 align="center">A.N.A.M | Student & Developer</h3>
 
 ## 👨‍💻 About Me
-Hello, my name is **Alif Najwan Azhim M** from Banjarmasin, South Borneo, Indonesia. A Student, Technician of [FrostAlpha's Stronghold](https://discord.gg/ak4mkfnq) as a Programming Enthusiast.
+Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now I am a student at Muhammadiyah University Semarang majoring in Informatics. and I have experience as a technician at. [FrostAlpha's Stronghold](https://discord.gg/R2HyPUasfr 
+) 
 
 <p align="center">
   <!-- Social Badges -->
@@ -43,6 +44,4 @@ Coming soon...
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AlifNAjwan&color=blue&style=flat-square" />
-  
-  Made with ❤️ from Banjarmasin
 </div>
