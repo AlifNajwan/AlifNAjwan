@@ -26,17 +26,18 @@ Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now 
   </a>
 </p>
 
-## 🎮 Collection Games
-<div align="center">
-  <img src="https://gamesicons.dev/icons?i=MobileLegends,GenshinImpact,FCMobile" />
-</div>
+# 🎮 Collection Games
 
+## 🕹️ Daftar Game
+- **Mobile Legends** - MOBA Game
+- **Genshin Impact** - Open World RPG
+- **FC Mobile** - Football Game
 
 ## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,html,css,git,github,vscode" />
-</div>
-
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlifNAjwan&show_icons=true&theme=radical&hide_border=true" />
