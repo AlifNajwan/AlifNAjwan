@@ -32,11 +32,10 @@ Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now 
 
 ## 🕹️ OUR GAMES COLLECTION
 
-| Game | Logo | Genre | Status |
-|------|------|-------|--------|
-| **Mobile Legends** | <img src="https://static.wikia.nocookie.net/mobile-legends/images/4/40/Logo.png" width="60"> | MOBA | ✅ Active |
-| **Genshin Impact** | <img src="https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Game_Logo.png" width="60"> | RPG | ✅ Active |
-| **FC Mobile** | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/EA_Sports_FC_logo.svg/800px-EA_Sports_FC_logo.svg.png" width="60"> | Sports | ✅ Active |
+
+<img src="https://static.wikia.nocookie.net/mobile-legends/images/4/40/Logo.png" width="60"> | MOBA | ✅ Active |
+ <img src="https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Game_Logo.png" width="60"> | RPG | ✅ Active |
+ <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/EA_Sports_FC_logo.svg/800px-EA_Sports_FC_logo.svg.png" width="60"> | Sports | ✅ Active |
 
 ## 🛠️ TECH STACK
 
