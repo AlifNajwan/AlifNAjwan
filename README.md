@@ -26,9 +26,9 @@ Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now 
   </a>
 </p>
 
-##🎮 Collection Games
+## 🎮 Collection Games
 <div align="center">
-  <img src="https://Gameicons.dev/icons?i=Mobile Legends, Genshin Impact, FC Mobile" />
+  <img src="https://Gameicons.dev/icons?i=MobileLegends,GenshinImpact,FCMobile" />
 </div>
 
 
