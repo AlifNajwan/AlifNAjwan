@@ -7,7 +7,7 @@
 <h3 align="center">A.N.A.M | XDO </h3>
 
 ## 👨‍💻 About Me
-Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now I am a student at Muhammadiyah University Semarang majoring in Informatics. and I have experience as a technician at. [FrostAlpha's Stronghold](https://discord.gg/R2HyPUasfr 
+Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now I am a student at Muhammadiyah University Semarang majoring in Informatics. and I have experience as a technician on [FrostAlpha's Stronghold](https://discord.gg/R2HyPUasfr 
 ) 
 
 <p align="center">
@@ -25,6 +25,12 @@ Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now 
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
+
+##🎮 Collection Games
+<div align="center">
+  <img src="https://Gameicons.dev/icons?i=Mobile Legends, Genshin Impact, FC Mobile" />
+</div>
+
 
 ## 🛠️ Tech Stack
 <div align="center">
