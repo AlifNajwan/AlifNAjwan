@@ -30,7 +30,7 @@ part of
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561198721694565">
-    <img alt="Steam" src="https://img.shields.io/badge/Steam-1DB954?style=for-the-badge&logo=Steam&logoColor=white"/>
+    <img alt="Steam" src="https://img.shields.io/badge/Steam-1DB876?style=for-the-badge&logo=Steam&logoColor=white"/>
   </a>
 </p>
 
