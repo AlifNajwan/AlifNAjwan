@@ -7,8 +7,12 @@
 <h3 align="center">A.N.A.M | XDO </h3>
 
 ## 👨‍💻 About Me
-Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now I am a student at Muhammadiyah University Semarang majoring in Informatics. and I have experience as a technician on [FrostAlpha's Stronghold](https://discord.gg/R2HyPUasfr 
-) 
+Berikut terjemahan bahasa Inggris yang natural untuk perkenalan tersebut:
+
+Hello everyone, let me introduce myself. My name is Alif Najwan Azhim M, also known as A.N.A.M. I come from Banjarmasin, South Kalimantan, and I'm currently studying Informatics at Muhammadiyah University of Semarang. My hobbies are playing games, traveling, and going on adventures. Sometimes, when I'm thinking about something, I'll just lie down or do something like that. Actually, I'm too lazy to think right now — but when I'm 'on,' I'll already have an idea of what I want to do. I don't have to be fast, but precise in adapting. 
+
+part of
+[FrostAlpha's Stronghold](https://discord.gg/R2HyPUasfr) 
 
 <p align="center">
   <!-- Social Badges -->
@@ -23,6 +27,9 @@ Hello, let me introduce myself, Alif Najwan Azhim M or known as A.N.A.M and now 
   </a>
   <a href="https://open.spotify.com/user/your-id">
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198721694565">
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
 </p>
 
