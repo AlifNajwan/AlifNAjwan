@@ -7,7 +7,7 @@
 <h3 align="center">A.N.A.M | XDO </h3>
 
 ## 👨‍💻 About Me
-Berikut terjemahan bahasa Inggris yang natural untuk perkenalan tersebut:
+
 
 Hello everyone, let me introduce myself. My name is Alif Najwan Azhim M, also known as A.N.A.M. I come from Banjarmasin, South Kalimantan, and I'm currently studying Informatics at Muhammadiyah University of Semarang. My hobbies are playing games, traveling, and going on adventures. Sometimes, when I'm thinking about something, I'll just lie down or do something like that. Actually, I'm too lazy to think right now — but when I'm 'on,' I'll already have an idea of what I want to do. I don't have to be fast, but precise in adapting. 
 
