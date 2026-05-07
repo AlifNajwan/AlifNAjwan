@@ -4,13 +4,15 @@
 
 <h3 align="center"> <span style="color: #00ff00;">A</span> <span style="color: #00ffff;">.</span> <span style="color: #ff00ff;">N</span> <span style="color: #ffff00;">.</span> <span style="color: #ff8800;">A</span> <span style="color: #8800ff;">.</span> <span style="color: #00ff88;">M</span> </h3><h4 align="center"> <code>Alif Najwan Azhim M | Student </code> </h4><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=A.+N.+A.+M;Student+%26+Developer+from+Banjarmasin;Passionate+Programmer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" /> </p>
 
-<h3 align="center">A.N.A.M | XDO </h3>
+<h3 align="center">A.N.A.M | Coffe Espresso</h3>
 
 ## 👨‍💻 About Me
 
+Coffee Espresso is like a small but strong cup of Italian coffee—bitter at first, but energizing and warming afterward. Just like me: I don’t need to make a big show of myself or rush things, but when the time comes, I can make an impact that hits the mark. The bitterness of laziness in thinking is sometimes there, but behind it lies a readiness to adapt with precision.
 
-Hello everyone, let me introduce myself. My name is Alif Najwan Azhim M, also known as A.N.A.M. I come from Banjarmasin, South Kalimantan, and I'm currently studying Informatics at Muhammadiyah University of Semarang. My hobbies are playing games, traveling, and going on adventures. Sometimes, when I'm thinking about something, I'll just lie down or do something like that. Actually, I'm too lazy to think right now — but when I'm 'on,' I'll already have an idea of what I want to do. I don't have to be fast, but precise in adapting. 
+First off, my name is Alif Najwan Azhim Muntazhar, or you can call me A.N.A.M. I was born and raised in Banjarmasin, South Kalimantan, and am currently pursuing a degree in Computer Science at Muhammadiyah University of Semarang. My hobbies are gaming, traveling, and adventure. When I’m thinking, I prefer to lie down first—honestly, I get lazy if I’m forced to think quickly. But once “mode on” kicks in, I already have a clear picture of what needs to be done. I don’t have to be fast; what matters is being precise in adapting.
 
+Translated with DeepL.com (free version)
 part of
 
 [FrostAlpha's Stronghold](https://discord.gg/R2HyPUasfr) 
