@@ -53,7 +53,7 @@ part of
 
 ### Coming Soon
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/krita/krita-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/krita.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/aseprite.svg" width="50" />
 
 
