@@ -53,8 +53,8 @@ part of
 
 ### Coming Soon
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/krita.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/aseprite.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krita/krita-original.svg" width="50" style="background:white; padding:6px; border-radius:12px;" />
+<img src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase256.png" width="50" style="background:white; padding:6px; border-radius:12px;" />
 
 
 ### Tools
