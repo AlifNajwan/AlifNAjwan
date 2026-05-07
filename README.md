@@ -51,11 +51,6 @@ part of
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
 
-### Coming Soon
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krita_Application_Logo.svg/256px-Krita_Application_Logo.svg.png" width="50">
-<img src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase256.png" width="50" style="background:white; padding:6px; border-radius:12px;" />
-
 
 ### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
