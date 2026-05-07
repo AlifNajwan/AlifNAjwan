@@ -50,7 +50,7 @@ part of
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phyton/phyton-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Pyhton/pyhton-original.svg" width="50" />
 
 ### Coming Soon
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Godot/Godot-original.svg" width="50" />
