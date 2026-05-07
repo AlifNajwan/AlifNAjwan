@@ -53,7 +53,7 @@ part of
 
 ### Coming Soon
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krita_Application_Logo.svg/256px-Krita_Application_Logo.svg.png" width="50" style="background:white; padding:6px; border-radius:12px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krita_Application_Logo.svg/256px-Krita_Application_Logo.svg.png" width="50">
 <img src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase256.png" width="50" style="background:white; padding:6px; border-radius:12px;" />
 
 
