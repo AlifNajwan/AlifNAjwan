@@ -10,7 +10,7 @@
 
 Coffee Espresso is like a small but strong cup of Italian coffee bitter at first, but energizing and warming afterward. Just like me: I don’t need to make a big show of myself or rush things, but when the time comes, I can make an impact that hits the mark. The bitterness of laziness in thinking is sometimes there, but behind it lies a readiness to adapt with precision.
 
-First off, my name is Alif Najwan Azhim Muntazhar, or you can call me A.N.A.M. I was born and raised in Banjarmasin, South Kalimantan, and am currently pursuing a degree in Computer Science at Muhammadiyah University of Semarang. My hobbies are gaming, traveling, and adventure. When I’m thinking, I prefer to lie down first—honestly, I get lazy if I’m forced to think quickly. But once “mode on” kicks in, I already have a clear picture of what needs to be done. I don’t have to be fast; what matters is being precise in adapting.
+First off, my name is Alif Najwan Azhim Muntazhar, or you can call me A.N.A.M. I was born and raised in Banjarmasin, South Kalimantan, and am currently pursuing a degree in Computer Science at Muhammadiyah University of Semarang. My hobbies are gaming, traveling, and adventure. When I’m thinking, I prefer to lie down first honestly, I get lazy if I’m forced to think quickly. But once “mode on” kicks in, I already have a clear picture of what needs to be done. I don’t have to be fast; what matters is being precise in adapting.
 
 part of
 
