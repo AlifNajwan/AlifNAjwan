@@ -52,9 +52,9 @@ part of
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
 
 ### Coming Soon
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Godot/Godot-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krita/Krita-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Aseprite/Aseprite-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/krita/krita-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/aseprite.svg" width="50" />
 
 
 ### Tools
