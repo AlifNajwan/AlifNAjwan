@@ -49,7 +49,7 @@ part of
 ### Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Pyhton/Pyhton-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
 
 ### Coming Soon
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Godot/Godot-original.svg" width="50" />
