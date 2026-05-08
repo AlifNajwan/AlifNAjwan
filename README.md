@@ -60,9 +60,8 @@ https://github.com/SansDev-Comunity
 ### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50" height="50">
-  <path fill="#007ACC" d="M21.73 3.57L14.19.28a2.5 2.5 0 0 0-2.5 0L3.84 4.07a2.3 2.3 0 0 0-1.14 2.06v11.74a2.3 2.3 0 0 0 1.14 2.06l7.85 3.79a2.5 2.5 0 0 0 2.5 0l7.85-3.79a2.3 2.3 0 0 0 1.14-2.06V5.63a2.3 2.3 0 0 0-1.45-2.06zM9.09 16.05L4.58 12l4.51-4.05v8.1zM16.09 12l-4.51 4.05V7.95L16.09 12z"/>
-</svg>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+
 
 ## 🚀 Projects
 Coming soon...
