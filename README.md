@@ -60,7 +60,7 @@ https://github.com/SansDev-Comunity
 ### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-<img src="https://fastly.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudiocode/visualstudiocode-original.svg" width="50" />
+<img src="https://unpkg.com/devicon@2.15.1/icons/visualstudiocode/visualstudiocode-original.svg" width="50" alt="VS Code Icon"/>
 
 ## 🚀 Projects
 Coming soon...
