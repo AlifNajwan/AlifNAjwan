@@ -65,9 +65,3 @@ part of
 
 ## 🚀 Projects
 Coming soon...
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlifNAjwan&color=blue&style=flat-square" />
-</div>
