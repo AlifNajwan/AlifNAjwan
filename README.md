@@ -59,7 +59,7 @@ https://github.com/SansDev-Comunity
 ### Software & Others
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c ++/c ++-original.svg" width="50" />
 
 
 ### Tools
