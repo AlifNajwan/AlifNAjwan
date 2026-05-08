@@ -56,12 +56,5 @@ part of
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
 
-</div>
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlifNAjwan&show_icons=true&theme=radical&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlifNAjwan&layout=compact&theme=radical&hide_border=true" />
-</div>
-
 ## 🚀 Projects
 Coming soon...
