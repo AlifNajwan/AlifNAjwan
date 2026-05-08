@@ -32,7 +32,7 @@ part of
   </a>
   <a href="https://steamcommunity.com/profiles/76561198721694565">
     <img alt="Steam" src="https://img.shields.io/badge/Steam-079df4?style=for-the-badge&logo=Steam&logoColor=white"/>
-    <a href="https://github.com/AlifNAjwan">
+    <a href="https://www.tiktok.com/@a.n.a.mzs?_r=1&_t=ZS-96B8WgfWovY">
     <img alt="Tiktok" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=orange"/>
   </a>
   </a>
