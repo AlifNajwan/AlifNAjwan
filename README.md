@@ -16,7 +16,8 @@ part of
 
 [FrostAlpha's Stronghold](https://discord.gg/R2HyPUasfr) 
 
-<p align="center">
+<p align="center"> My Social Media
+  
   <!-- Social Badges -->
   <a href="https://github.com/AlifNAjwan">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
