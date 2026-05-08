@@ -12,12 +12,8 @@ Coffee Espresso is like a small but strong cup of Italian coffee bitter at first
 
 First off, my name is Alif Najwan Azhim Muntazhar, or you can call me A.N.A.M. I was born and raised in Banjarmasin, South Kalimantan, and am currently pursuing a degree in Computer Science at Muhammadiyah University of Semarang. My hobbies are gaming, traveling, and adventure. When I’m thinking, I prefer to lie down first honestly, I get lazy if I’m forced to think quickly. But once “mode on” kicks in, I already have a clear picture of what needs to be done. I don’t have to be fast; what matters is being precise in adapting
 
-## Part off 
-<a href=">https://github.com/SansDev-Comunity">
-    <img alt="sans dev community" src="https://avatars.githubusercontent.com/u/228215040?s=200&v=4
-?style=for-the-badge&logo=sans dev community&logoColor=Blue"/>
-  </a
-<h3 align="center"> Social Media </h3>
+## Part off : ttps://github.com/SansDev-Comunity
+
 
 <p align="center"> 
   <!-- Social Badges -->
