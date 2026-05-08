@@ -14,7 +14,7 @@ First off, my name is Alif Najwan Azhim Muntazhar, or you can call me A.N.A.M. I
 
 ## Part off 
 <a href=">https://github.com/SansDev-Comunity">
-    <img alt="sansdevcommunity" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=sans dev community&logoColor=Blue"/>
+    <img alt="sans dev community" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=sans dev community&logoColor=Blue"/>
   </a
 <h3 align="center"> Social Media </h3>
 
