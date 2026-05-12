@@ -1,1 +1,207 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Definisi HTML</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            color: #2c3e50;
+            line-height: 1.7;
+        }
 
+        .container {
+            max-width: 800px;
+            width: 100%;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            padding: 40px;
+            margin: 20px 0;
+        }
+
+        /* Logo di tengah atas */
+        .logo-top {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .logo-top svg {
+            width: 100px;
+            height: 100px;
+            filter: drop-shadow(0 4px 8px rgba(0,0,0,0.15));
+            transition: transform 0.3s ease;
+        }
+
+        .logo-top svg:hover {
+            transform: scale(1.1) rotate(-5deg);
+        }
+
+        /* Judul utama */
+        h1 {
+            text-align: center;
+            font-size: 2.8em;
+            margin: 0 0 5px 0;
+            color: #e44d26;
+            font-weight: 800;
+            letter-spacing: -1px;
+            text-shadow: 2px 2px 0 rgba(0,0,0,0.05);
+        }
+
+        /* Logo di bawah judul */
+        .logo-bottom {
+            text-align: center;
+            margin: 5px 0 25px 0;
+        }
+
+        .logo-bottom svg {
+            width: 50px;
+            height: 50px;
+            opacity: 0.8;
+            transition: transform 0.3s ease;
+        }
+
+        .logo-bottom svg:hover {
+            transform: rotate(10deg);
+            opacity: 1;
+        }
+
+        /* Konten paragraf */
+        p {
+            font-size: 1.15em;
+            margin-bottom: 1.2em;
+            text-align: justify;
+        }
+
+        .highlight {
+            background: #fff3e0;
+            padding: 15px 20px;
+            border-left: 5px solid #e44d26;
+            border-radius: 8px;
+            margin: 25px 0;
+            font-style: italic;
+        }
+
+        h2 {
+            color: #e44d26;
+            margin-top: 1.8em;
+            font-size: 1.8em;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 0.2em;
+        }
+
+        ul {
+            list-style-type: square;
+            padding-left: 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #7f8c8d;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Logo di tengah atas -->
+        <div class="logo-top">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" aria-label="Logo HTML5">
+                <path fill="#E44D26" d="M71 460L30 0h451l-41 460-185 52"/>
+                <path fill="#F16529" d="M256 472l149-41 35-394H256"/>
+                <path fill="#EBEBEB" d="M256 208h-74l-5-58h79V94H114l1 11 14 165h127zm0 113h-1l-63-17-4-43h-58l8 86 117 32h1z"/>
+                <path fill="#FFF" d="M255 208v57h70l-7 73-63 17v60l117-32 1-11 13-149 1-15z"/>
+            </svg>
+        </div>
+
+        <!-- Judul -->
+        <h1>Definisi HTML</h1>
+
+        <!-- Logo di bawah judul -->
+        <div class="logo-bottom">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" aria-label="Logo kecil HTML">
+                <path fill="#E44D26" d="M71 460L30 0h451l-41 460-185 52"/>
+                <path fill="#F16529" d="M256 472l149-41 35-394H256"/>
+                <path fill="#EBEBEB" d="M256 208h-74l-5-58h79V94H114l1 11 14 165h127zm0 113h-1l-63-17-4-43h-58l8 86 117 32h1z"/>
+                <path fill="#FFF" d="M255 208v57h70l-7 73-63 17v60l117-32 1-11 13-149 1-15z"/>
+            </svg>
+        </div>
+
+        <!-- Konten Definisi dan Sejarah -->
+        <p>
+            <strong>HTML</strong> (HyperText Markup Language) adalah bahasa markah standar 
+            yang digunakan untuk membuat dan menyusun halaman serta konten di web. HTML 
+            bukanlah bahasa pemrograman, melainkan sebuah bahasa <em>markup</em> yang 
+            mendeskripsikan struktur dokumen menggunakan elemen-elemen (tag) yang saling 
+            bertautan. Setiap halaman web yang kita kunjungi dibangun dengan fondasi HTML 
+            sebagai kerangka utamanya.
+        </p>
+
+        <div class="highlight">
+            "HTML adalah blok bangunan dasar dari World Wide Web. Tanpanya, web yang kita 
+            kenal tidak akan pernah ada." — <em>Tim Berners-Lee, penemu web</em>
+        </div>
+
+        <h2>📜 Sejarah Singkat HTML</h2>
+        <p>
+            HTML pertama kali diciptakan oleh <strong>Tim Berners-Lee</strong>, seorang 
+            fisikawan di CERN (Organisasi Eropa untuk Riset Nuklir) pada akhir tahun 1990. 
+            Awalnya, HTML dirancang sebagai cara sederhana untuk para peneliti berbagi 
+            dokumen melalui sistem hiperteks. Versi pertamanya memuat 18 tag dan sangat 
+            sederhana.
+        </p>
+        <p>
+            Perkembangan penting terjadi melalui beberapa tonggak:
+        </p>
+        <ul>
+            <li><strong>HTML 2.0</strong> (1995) – Standar pertama yang dirilis oleh IETF.</li>
+            <li><strong>HTML 3.2</strong> (1997) – Mulai mendukung tabel, applet, dan atribut lanjutan.</li>
+            <li><strong>HTML 4.01</strong> (1999) – Memisahkan struktur dari presentasi dengan diperkenalkannya CSS.</li>
+            <li><strong>XHTML</strong> (2000-an) – Versi HTML yang lebih ketat berbasis XML.</li>
+            <li><strong>HTML5</strong> (2014) – Revolusi besar dengan dukungan multimedia native (video, audio), canvas, API geolocation, web storage, dan banyak lagi. Kini menjadi standar hidup yang terus diperbarui oleh WHATWG dan W3C.</li>
+        </ul>
+
+        <p>
+            Hari ini, HTML5 telah menjadi tulang punggung aplikasi web modern, bekerja 
+            bersama CSS untuk tampilan dan JavaScript untuk interaktivitas. Hampir semua 
+            situs dari media sosial hingga perbankan online memanfaatkan kekuatan HTML5.
+        </p>
+
+        <h2>🔍 Mengapa HTML Sangat Penting?</h2>
+        <p>
+            HTML menyediakan makna semantik pada konten. Dengan tag seperti 
+            <code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;article&gt;</code>, dan 
+            <code>&lt;footer&gt;</code>, mesin pencari dan alat bantu (seperti screen reader) 
+            dapat memahami struktur halaman dengan lebih baik. Hal ini mendukung 
+            <strong>SEO</strong> (Search Engine Optimization) dan <strong>aksesibilitas</strong> web.
+        </p>
+
+        <footer>
+            © 2025 Definisi HTML — Dibuat untuk pembelajaran. Logo HTML5 digunakan sebagai 
+            simbol standar teknologi web.
+        </footer>
+    </div>
+</body>
+</html>
